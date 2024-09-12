@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(71, 218, 223);
+}
+
+div{
+    background-color: white;
+    padding: 50px;
+    border-image: url("./240_F_196232544_LcKGeWDIBl5yHSLvxh4M73jgxbrDUEFg.jpg") 100 repeat;
+    border-width: 40px;
+    border-style: solid
+
+    
+}
+
+.one{
+    margin: auto;
+    text-align: center;
+    width: 70%;
+    height: 600px;
+}
+
+.name{
+    color: purple;
+}
+
+.type{
+    color: rgb(61, 103, 221);
+}
+
+.title{
+    font-size: 50px;
+    color:  rgb(43, 41, 41);
+}
+
+h3{
+    text-align: right;
+    padding-right: 50px;
+}
+
+p{
+    text-align: right;
+}
+
+
+
+
